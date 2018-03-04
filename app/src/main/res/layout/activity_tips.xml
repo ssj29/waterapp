@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Check all faucets, pipes and toilets for leaks."
+        android:textSize="25sp"
+        android:background="@color/colorTips"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:textSize="25sp"
+        android:background="@color/colorTips"
+        android:text="Turn off the water while brushing your teeth or shaving."
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="170dp"
+        android:textSize="25sp"
+        android:text=" Fill up your sink with water, instead of letting it run the whole time that you’re scrubbing."
+        android:background="@color/colorTips"/>
+
+
+</RelativeLayout>
